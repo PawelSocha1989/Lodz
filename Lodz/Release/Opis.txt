@@ -1,0 +1,10 @@
+Do sterowania projektem używamy klawiatury oraz myszki.
+Do obrotu kamerą używamy myszki nie wciskając żadnego klawisza jedynie poruszać nią.
+Za pomocą strzałek na klawiaturze poruszamy łodzą odpowienio do przodu, w prawo, czy w lewo.
+Za pomocą klawiszy 'W' oraz 'D' możemy poruszać łodzią w górę oraz w dół.
+Klawiszami 'A' oraz 'D' możemu kamerę w osi x.
+Klawiszami '9' oraz '0' mamy możliwość rozjaśnianie oraz przyciemnianie projektu.
+Klawisze 'Z' i 'Q' mają za zadanie obrót kamery w osi y.
+Za pomocą klawiszy 'U' oraz 'O' mamy możliwość przybliżenia oraz oddalenia kamery znajdującej się za objektem.
+Klawiszami 'I', 'J', 'K', 'L', obrócić objekt wokół własnej osi x oraz y.
+Za pocą ESC zamykamy projekt.
