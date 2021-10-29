@@ -25,4 +25,4 @@ Details describing the full control of the project are presented in the file Opi
 
 Links
 
-http://gamescomingfromthesoul.pl/rakieta/
+http://gamescomingfromthesoul.pl/lodz/
