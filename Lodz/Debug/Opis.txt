@@ -1,3 +1,5 @@
+Polski
+
 Do sterowania projektem używamy klawiatury oraz myszki.
 Do obrotu kamerą używamy myszki nie wciskając żadnego klawisza jedynie poruszać nią.
 Za pomocą strzałek na klawiaturze poruszamy łodzą odpowienio do przodu, w prawo, czy w lewo.
@@ -8,3 +10,16 @@ Klawisze 'Z' i 'Q' mają za zadanie obrót kamery w osi y.
 Za pomocą klawiszy 'U' oraz 'O' mamy możliwość przybliżenia oraz oddalenia kamery znajdującej się za objektem.
 Klawiszami 'I', 'J', 'K', 'L', obrócić objekt wokół własnej osi x oraz y.
 Za pocą ESC zamykamy projekt.
+
+English
+
+We use a keyboard and a mouse to control the project.
+To rotate the camera we use the mouse without pressing any key, only move it.
+Use the arrows on the keyboard to move the boat forward, right or left, respectively.
+You can use the 'W' and 'D' keys to move the boat up and down.
+The 'A' and 'D' keys allow the camera in the x axis.
+With the '9' and '0' keys we can lighten and darken the design.
+The 'Z' and 'Q' keys are used to rotate the camera in the y axis.
+Using the 'U' and 'O' keys we can zoom in and out of the camera behind the object.
+With the 'I', 'J', 'K', 'L' keys, rotate the object around its x and y axis.
+We close the project with ESC.
