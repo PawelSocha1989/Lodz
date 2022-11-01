@@ -25,4 +25,4 @@ Details describing the full control of the project are presented in the file Opi
 
 Links
 
-http://gamescomingfromthesoul.pl/lodz/
+https://www.youtube.com/watch?v=xr9BMjxUUi8&ab_channel=GamesComingFromTheSoul/
